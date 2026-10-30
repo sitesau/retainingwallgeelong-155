@@ -1,0 +1,22 @@
+{
+  "wheel_id": 527,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-155",
+  "project": "retaining-wall-repairs-geelong-22354e311605dc5cd71485a8e49f5216",
+  "parent_t1_ref": "retainingwallgeelong-011",
+  "node_role": "buffer",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall repairs geelong",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-repairs-geelong-22354e311605dc5cd71485a8e49f5216/",
+  "tier": "T2",
+  "writeback_nonce": "7023d875427bace4",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallgeelong-011/retaining-wall-repairs-geelong.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
